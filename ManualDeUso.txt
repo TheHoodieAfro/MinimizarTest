@@ -1,0 +1,23 @@
+Manual de instrucciones para el manejo del Programa
+
+1.) Insertar los estados utilizando letras mayusculas
+separados por "," ejemplo : A,B,C
+
+2.) Insertar los estimulus utilizando numeros entre el 1 -9 
+separado por "," ejemplo : 1,2,3
+
+3.) Escoger el tipo de automata de las opciones del combo box
+"Tipo de Automata" 
+
+4.) Oprimir el boton "Generar Matriz Entradas" y luego llenar las celdas
+con los datos respectivos del automata. Si es un automata de Moore entonces 
+existira una nueva columna donde se colocan la salida respectiva de cada estado
+
+5.) Luego orpimir el boton "minimizar automata" aparecera una notificacion indicando
+que se minimizo el automata junto con la cantidad de nuevos estados, luego parecera
+el automata minimizado equivalente debajo de la palabra output, en forma de tabla
+
+6.) Por ultimo si lo desea puede oprimir el boton "Mostrar Grafo" para ver una visualizacion
+del grafo minimizado de manera grafica. 
+
+7.)Disfrute
